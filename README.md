@@ -1,2 +1,2 @@
 # C_plus_plus_practice_2
-Basic C++ practice
+Basic C++ session 2
