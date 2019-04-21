@@ -1,3 +1,2 @@
-# C_plus_plus_practice_2
-Basic C++ session 2
-Program that calulates girl scout cookie sales.
+# Cookie-Sales
+C++ program that calulates girl scout cookie sales.
